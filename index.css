@@ -3,21 +3,26 @@ body{
     margin: 0;
 }
 .display{
-    width: 100%;
+    width: 95%;
     height: 100px;
+    background-color: white;
+    margin-left: 1%;
+    box-shadow: 1% 1% 1% .5 white;
 }
 .display-container{
     background-color: #e6dbda;
+    border: 1px solid red;
+    width: 35%;
 }
 .button{
     background-color: white;
     margin: 1%;
-    padding: 2rem;
+    padding: 3rem;
     font-size: 20px;
     font-weight: bold;
     text-align: center;
     box-shadow: 5px 5px blue;
 }
 .btn-plus{
-    width: 34%;
+    width: 43%;
 }
