@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.display{
+    width: 100%;
+    height: 100px;
+}
+.display-container{
+    background-color: #e6dbda;
+}
+.button{
+    background-color: white;
+    margin: 1%;
+    padding: 2rem;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 5px 5px blue;
+}
+.btn-plus{
+    width: 34%;
+}
